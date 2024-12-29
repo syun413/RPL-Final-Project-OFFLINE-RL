@@ -1,4 +1,4 @@
-# tdmpc2-jepa
+# RPL Final Project - TDMPC2-vjepa 
 ## Setup
 ```
 conda env create -f environment-new.yaml
